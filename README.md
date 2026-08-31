@@ -10,7 +10,7 @@ This repository contains the **companion code and examples** for the AI Engineer
 
 Follow the complete course on YouTube:
 
-👉 **[Tech With Mala — YouTube Channel](https://www.youtube.com/@TechWithMala)**
+👉 **[Tech With Mala — YouTube Channel](https://www.youtube.com/watch?v=QPMqFh-kn3g)**
 
 The repository is designed to be used alongside the video lessons, so you can follow the concepts and run the examples yourself.
 
